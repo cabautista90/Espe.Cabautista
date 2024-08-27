@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Pagina de inicio</title>
+    
+</head>
+<body>
+    
+    <table>
+        <thead>
+            <tr>
+                <td>Nombre Proyecto: ACTIVIDAD 3 MVC</td>
+                <td>integrantes: Carlos Bautista Diaz</td>
+                <td>Resumen:MVC Es la impelementacion del modelos vista controlador utilizando funciones boostrap para la interfaz y axios para la gestion de peticiones</td>
+            </tr>
+        </thead>
+    </table>
+
+</body>
+</html>

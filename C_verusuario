@@ -1,0 +1,7 @@
+<?php
+
+require('models/Autor.php');
+
+$con = new Conexion();
+
+$require('views/V_verusuarios.php');
