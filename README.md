@@ -58,6 +58,7 @@ mi primer repositorio
 
 #se implemento Boostrap para mejorar la interfaz en el desarrollo de la pagina web
 
+#se realizo la configuración del router y .htaccess
 
 #USO DE LA APLICACION
 
